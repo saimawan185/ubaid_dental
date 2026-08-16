@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saimawan185.github.io/ubaid_dental/sitemap.xml
